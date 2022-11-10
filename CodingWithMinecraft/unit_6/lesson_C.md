@@ -1,7 +1,7 @@
 ### @explicitHints 1
-# Activity: Burger 
+# Activity: Burger KIIIING
 
-## Step 1
+## PASO 1111
 Make a function. In the ``||Functions:FUNCTIONS||`` Toolbox drawer, click the **Make a Function** button.
 
 Name the function. Name this function *bottomBun()*, and click **Ok**.
